@@ -1,10 +1,9 @@
 import React from 'react';
 
-import Navbar from './components/Navbar';
 import Map from './components/Map';
 
 import { useLoadScript } from "@react-google-maps/api";
-import { CssBaseline, Grid, InputBase } from '@mui/material';
+import { CssBaseline } from '@mui/material';
 
 
 function App() {
