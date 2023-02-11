@@ -28,7 +28,7 @@
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
   },
-  "homepage" : "https://github.com/carloslee008/commute-calculator",
+  "homepage" : "https://carloslee008.github.io/commute-calculator/",
   "eslintConfig": {
     "extends": [
       "react-app",
