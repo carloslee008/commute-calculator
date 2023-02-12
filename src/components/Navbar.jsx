@@ -31,24 +31,6 @@ const Navbar = () => {
                 </Typography>
                 <GpsFixedIcon sx={{ display: { xs: "block", sm: "none" } }} />
 
-                {/* <Combobox onSelect={handleSelect}>
-                    <ComboboxInput 
-                        value={value}
-                        onChange={e =>
-                        setValue(e.target.value)}
-                        className="combobox-input"
-                        disabled= {!ready}
-                        placeholder="Origin"
-                        ref={originRef}
-                        />
-                    <ComboboxPopover>
-                        <ComboboxList>
-                            {status ==="OK" && data.map(({place_id, description}) => (
-                                <ComboboxOption key={place_id} value={description} />
-                            ))}
-                        </ComboboxList>
-                    </ComboboxPopover>
-                </Combobox> */}
             </StyledToolbar>
         </AppBar>
     )

@@ -85,6 +85,7 @@ const Map = () => {
                             </ButtonGroup>
                         </div>
                         <div className="button">
+                            {!origin && <p>Enter your home and work addresses to find out your commute time, distance, and gas cost!</p>}
                             {directions && <Distance leg={directions.routes[0].legs[0]}/> }
                         </div>
                     </div>
