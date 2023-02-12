@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/commute-calculator/static/css/main.e7a3fae9.css",
-    "main.js": "/commute-calculator/static/js/main.3e7a5fa7.js",
+    "main.js": "/commute-calculator/static/js/main.21f26383.js",
     "index.html": "/commute-calculator/index.html",
     "main.e7a3fae9.css.map": "/commute-calculator/static/css/main.e7a3fae9.css.map",
-    "main.3e7a5fa7.js.map": "/commute-calculator/static/js/main.3e7a5fa7.js.map"
+    "main.21f26383.js.map": "/commute-calculator/static/js/main.21f26383.js.map"
   },
   "entrypoints": [
     "static/css/main.e7a3fae9.css",
-    "static/js/main.3e7a5fa7.js"
+    "static/js/main.21f26383.js"
   ]
 }
